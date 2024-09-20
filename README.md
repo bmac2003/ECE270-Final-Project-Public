@@ -16,6 +16,7 @@ project/audio contains the four 8-bit audio files that are loaded into the regis
 project/tests contains testing sequences for all of the modules used to create the drum machine, provided by the class
 
 project/workdir contains the .sv files that constitue the System Verilog I wrote to build the drum machine.  They were all written from scratch to pass the
-tests provided to us and then integrated into the top.sv module to implement the actual functionality of the program.  
+tests provided to us and then integrated into the top.sv module to implement the actual functionality of the program.  (These files have been removed so that 
+I can make this repository public)
 
 project/build and project/support were used to verify some elements of the design but were provided by the class
